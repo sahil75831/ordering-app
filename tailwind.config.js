@@ -11,6 +11,10 @@ module.exports = {
         primary: "#f13a01",
       },
     },
+    fontFamily: {
+      kalamRegular: ["Kalam", "cursive"],
+      madimi: ["Madimi One", "sans-serif"],
+    },
   },
   plugins: [],
 };
